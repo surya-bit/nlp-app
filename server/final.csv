@@ -1,0 +1,354 @@
+OFFER,RETAILER,BRAND,PRODUCT_CATEGORY,IS_CHILD_CATEGORY_TO
+"Beyond Steak™ Plant-Based seared tips, 10 ounce at Target",TARGET,BEYOND MEAT,Plant-Based Meat,Meat & Seafood
+"Beyond Steak™ Plant-Based seared tips, 10 ounce, buy 2 at H-E-B",H-E-B,BEYOND MEAT,Plant-Based Meat,Meat & Seafood
+"Beyond Steak™ Plant-Based seared tips, 10 ounce at H-E-B",H-E-B,BEYOND MEAT,Plant-Based Meat,Meat & Seafood
+"Beyond Steak™ Plant-Based seared tips, 10 ounce, buy 2 at Target",TARGET,BEYOND MEAT,Plant-Based Meat,Meat & Seafood
+"Beyond Steak™ Plant-Based seared tips, 10 ounce at Target",TARGET,BEYOND MEAT,Frozen Plant-Based Meat,Frozen
+"Beyond Steak™ Plant-Based seared tips, 10 ounce, buy 2 at H-E-B",H-E-B,BEYOND MEAT,Frozen Plant-Based Meat,Frozen
+"Beyond Steak™ Plant-Based seared tips, 10 ounce at H-E-B",H-E-B,BEYOND MEAT,Frozen Plant-Based Meat,Frozen
+"Beyond Steak™ Plant-Based seared tips, 10 ounce, buy 2 at Target",TARGET,BEYOND MEAT,Frozen Plant-Based Meat,Frozen
+"Beyond Steak™ Plant-Based seared tips, 10 ounce at Target",TARGET,BEYOND MEAT,Packaged Meat,Pantry
+"Beyond Steak™ Plant-Based seared tips, 10 ounce, buy 2 at H-E-B",H-E-B,BEYOND MEAT,Packaged Meat,Pantry
+"Beyond Steak™ Plant-Based seared tips, 10 ounce at H-E-B",H-E-B,BEYOND MEAT,Packaged Meat,Pantry
+"Beyond Steak™ Plant-Based seared tips, 10 ounce, buy 2 at Target",TARGET,BEYOND MEAT,Packaged Meat,Pantry
+"Tyson Products, select varieties, spend $20 at Sam's Club",SAMS CLUB,BALL PARK FRANK,Packaged Meat,Pantry
+"Tyson Products, select varieties, spend $15 at Walmart",WALMART,AIDELLS,Packaged Meat,Pantry
+"Reese's Peanut Butter Bar, 6 count, at GIANT OR MARTIN’S",THE GIANT CO,GOOD HUMOR,Frozen Desserts,Frozen
+"Reese's Peanut Butter Bar, 6 count, at GIANT OR MARTIN’S",MARTINS FOODS,GOOD HUMOR,Frozen Desserts,Frozen
+"Sara Lee® bread, select varieties, buy 2 at Walmart®",WALMART,SARA LEE,Frozen Desserts,Frozen
+"Sara Lee® bread select varieties, buy 2",WALMART,SARA LEE,Frozen Desserts,Frozen
+"Reese's Chocolate Cones, 8 count at GIANT OR MARTIN’S",MARTINS FOODS,KLONDIKE,Frozen Desserts,Frozen
+"Reese's Chocolate Cones, 8 count at GIANT OR MARTIN’S",GIANT FOOD,KLONDIKE,Frozen Desserts,Frozen
+"Klondike Cones, spend $10 at Walmart ",WALMART,KLONDIKE,Frozen Desserts,Frozen
+Klondike Cones at Walmart ,WALMART,KLONDIKE,Frozen Desserts,Frozen
+"Breyers Reese's Ice Cream, select varieties, at GIANT OR MARTIN’S",MARTINS FOODS,BREYERS,Frozen Desserts,Frozen
+"Reese's Peanut Butter Bar, 6 count, at GIANT OR MARTIN’S",THE GIANT CO,GOOD HUMOR,Dips & Salsa,Snacks
+"Reese's Peanut Butter Bar, 6 count, at GIANT OR MARTIN’S",MARTINS FOODS,GOOD HUMOR,Dips & Salsa,Snacks
+"Sign up for McAlister's Deli Rewards, tap for details",MCALISTERS DELI,MCALISTERS DELI,Dips & Salsa,Snacks
+"Butterball, select varieties, spend $10 at Dillons Food Store",DILLONS FOOD STORE,BUTTERBALL,Nut Butters & Jam,Pantry
+"Butterball, select varieties, spend $10 at Ralphs",RALPHS,BUTTERBALL,Nut Butters & Jam,Pantry
+"Butterball, select varieties, Spend $10 at Ruler Foods",RULER FOODS,BUTTERBALL,Nut Butters & Jam,Pantry
+"Butterball, select varieties, spend $10 at King Soopers",KING SOOPERS,BUTTERBALL,Nut Butters & Jam,Pantry
+"Butterball, select varieties, spend $10 at Fred Meyer",FRED MEYER,BUTTERBALL,Nut Butters & Jam,Pantry
+"Butterball, select varieties, spend $10 at Kroger",KROGER,BUTTERBALL,Nut Butters & Jam,Pantry
+"Butterball, select varieties, spend $10 at Smith's",SMITHS,BUTTERBALL,Nut Butters & Jam,Pantry
+"Butterball, select varieties, spend $10 at Food 4 Less",FOOD4LESS,BUTTERBALL,Nut Butters & Jam,Pantry
+"Butterball, select varieties, spend $10 at Fry's Food Store",FRYS FOOD STORE,BUTTERBALL,Nut Butters & Jam,Pantry
+"Butterball, select varieties, spend $10 at QFC",QFC,BUTTERBALL,Nut Butters & Jam,Pantry
+"Butterball, select varieties, spend $10 at Mariano's",MARIANOS,BUTTERBALL,Nut Butters & Jam,Pantry
+"Butterball, select varieties, spend $10 at Pick 'n Save OR Metro Market",PICK N SAVE,BUTTERBALL,Nut Butters & Jam,Pantry
+Country Crock® Plant Based Butter at Walmart,WALMART,COUNTRY CROCK PLANT BUTTER,Nut Butters & Jam,Pantry
+Country Crock® Plant Based Cream at Walmart,WALMART,COUNTRY CROCK PLANT BUTTER,Nut Butters & Jam,Pantry
+"Butterball, select varieties, spend $10 at Dillons Food Store",DILLONS FOOD STORE,BUTTERBALL,Frozen Turkey,Frozen Meat
+"Butterball, select varieties, spend $10 at Ralphs",RALPHS,BUTTERBALL,Frozen Turkey,Frozen Meat
+"Butterball, select varieties, Spend $10 at Ruler Foods",RULER FOODS,BUTTERBALL,Frozen Turkey,Frozen Meat
+"Butterball, select varieties, spend $10 at King Soopers",KING SOOPERS,BUTTERBALL,Frozen Turkey,Frozen Meat
+"Butterball, select varieties, spend $10 at Fred Meyer",FRED MEYER,BUTTERBALL,Frozen Turkey,Frozen Meat
+"Butterball, select varieties, spend $10 at Kroger",KROGER,BUTTERBALL,Frozen Turkey,Frozen Meat
+"Butterball, select varieties, spend $10 at Smith's",SMITHS,BUTTERBALL,Frozen Turkey,Frozen Meat
+"Butterball, select varieties, spend $10 at Food 4 Less",FOOD4LESS,BUTTERBALL,Frozen Turkey,Frozen Meat
+"Butterball, select varieties, spend $10 at Fry's Food Store",FRYS FOOD STORE,BUTTERBALL,Frozen Turkey,Frozen Meat
+"Butterball, select varieties, spend $10 at QFC",QFC,BUTTERBALL,Frozen Turkey,Frozen Meat
+"Butterball, select varieties, spend $10 at Mariano's",MARIANOS,BUTTERBALL,Frozen Turkey,Frozen Meat
+"Butterball, select varieties, spend $10 at Pick 'n Save OR Metro Market",PICK N SAVE,BUTTERBALL,Frozen Turkey,Frozen Meat
+"Sign up for McAlister's Deli Rewards, tap for details",MCALISTERS DELI,MCALISTERS DELI,Frozen Turkey,Frozen Meat
+"EVOLVE® Plant-Based Protein Shake, 4 count, select varieties, at Whole Foods",WHOLE FOODS MARKET,EVOLVE,Frozen Turkey,Frozen Meat
+"GATORADE® Fast Twitch®, 12-ounce 12 pack, at Amazon Storefront*",AMAZON,GATORADE,Sports Drinks,Sports Drinks & Enhanced Waters
+"GATORADE® Fast Twitch®, 12-ounce single serve, buy 2 at Kroger",FRED MEYER,GATORADE,Sports Drinks,Sports Drinks & Enhanced Waters
+"GATORADE® Fast Twitch®, 12-ounce single serve, at Kroger",DILLONS GROCERY,GATORADE,Sports Drinks,Sports Drinks & Enhanced Waters
+"GATORADE® Fast Twitch®, 12-ounce single serve, buy 2 at Kroger",FOOD4LESS,GATORADE,Sports Drinks,Sports Drinks & Enhanced Waters
+"GATORADE® Fast Twitch®, 12-ounce 12 pack, at Amazon Storefront*",AMAZON,GATORADE,Medicines & Treatments,Health & Wellness
+"GATORADE® Fast Twitch®, 12-ounce single serve, buy 2 at Kroger",FRED MEYER,GATORADE,Medicines & Treatments,Health & Wellness
+"GATORADE® Fast Twitch®, 12-ounce single serve, at Kroger",DILLONS GROCERY,GATORADE,Medicines & Treatments,Health & Wellness
+"GATORADE® Fast Twitch®, 12-ounce single serve, buy 2 at Kroger",FOOD4LESS,GATORADE,Medicines & Treatments,Health & Wellness
+Shop 2 times at ACME,ACME,ACME,Medicines & Treatments,Health & Wellness
+Spend $90 at ACME,ACME,ACME,Medicines & Treatments,Health & Wellness
+Spend $250 at ACME,ACME,ACME,Medicines & Treatments,Health & Wellness
+Any ACME receipt,ACME,ACME,Medicines & Treatments,Health & Wellness
+Spend $130 at ACME,ACME,ACME,Medicines & Treatments,Health & Wellness
+"Flonase Allergy Relief, at Walmart",WALMART,FLONASE,Medicines & Treatments,Health & Wellness
+"Perfect Keto Barista Blend Collagen & MCTs, online at Amazon",AMAZON,PERFECT KETO,Medicines & Treatments,Health & Wellness
+"Perfect Keto Beauty + Sleep Collagen, online at Amazon",AMAZON,PERFECT KETO,Medicines & Treatments,Health & Wellness
+"Perfect Keto Bars, online at Amazon",AMAZON,PERFECT KETO,Medicines & Treatments,Health & Wellness
+"Perfect Keto Collagen Peptides, online at Amazon",AMAZON,PERFECT KETO,Medicines & Treatments,Health & Wellness
+"Perfect Keto MCT Oil Powder, online at Amazon",AMAZON,PERFECT KETO,Medicines & Treatments,Health & Wellness
+"Perfect Keto Super Reds, online at Amazon",AMAZON,PERFECT KETO,Medicines & Treatments,Health & Wellness
+"Perfect Keto Exogenous Ketones Powder, online at Amazon",AMAZON,PERFECT KETO,Medicines & Treatments,Health & Wellness
+AleveX™ at Walmart,WALMART,ALEVE,Medicines & Treatments,Health & Wellness
+"Aleve® products, select varieties, 80 count+ at Walmart",WALMART,ALEVE,Medicines & Treatments,Health & Wellness
+"Aleve® products AND AleveX™, select varieties, at Walmart",WALMART,ALEVE,Medicines & Treatments,Health & Wellness
+"Durex® Massage & Play 2 in 1 Pleasure Gel, select varieties, at Walmart or Target",TARGET,DUREX,Medicines & Treatments,Health & Wellness
+"Children's Astepro® Allergy, 22 count at Dollar General",DOLLAR GENERAL STORE,ASTEPRO,Medicines & Treatments,Health & Wellness
+"Adult Astepro® Allergy, 22 count at Dollar General",DOLLAR GENERAL STORE,ASTEPRO,Medicines & Treatments,Health & Wellness
+Spend $10 at CVS,CVS,CVS,Medicines & Treatments,Health & Wellness
+Spend $30 at CVS,CVS,CVS,Medicines & Treatments,Health & Wellness
+"GATORADE® Fast Twitch®, 12-ounce 12 pack, at Amazon Storefront*",AMAZON,GATORADE,Meal Replacement Beverages,Beverages
+"GATORADE® Fast Twitch®, 12-ounce single serve, buy 2 at Kroger",FRED MEYER,GATORADE,Meal Replacement Beverages,Beverages
+"GATORADE® Fast Twitch®, 12-ounce single serve, at Kroger",DILLONS GROCERY,GATORADE,Meal Replacement Beverages,Beverages
+"GATORADE® Fast Twitch®, 12-ounce single serve, buy 2 at Kroger",FOOD4LESS,GATORADE,Meal Replacement Beverages,Beverages
+"EVOLVE® Plant-Based Protein Shake, 4 count, select varieties, at Whole Foods",WHOLE FOODS MARKET,EVOLVE,Meal Replacement Beverages,Beverages
+Little Bites® Spend $10 at Walmart®,WALMART,ENTENMANNS,Cookies,Snacks
+"Sign up for McAlister's Deli Rewards, tap for details",MCALISTERS DELI,MCALISTERS DELI,Cookies,Snacks
+"Dr Pepper®, Regular OR Zero Sugar Strawberries and Cream 12 pack, at select retailers",UNITED SUPERMARKETS,DR PEPPER,Carbonated Soft Drinks,Beverages
+"PepsiCo® Beverage, 7.5-ounce 10 pack, select varieties, at Amazon Storefront*",AMAZON,PEPSI,Carbonated Soft Drinks,Beverages
+"PepsiCo® Variety Pack, select varieties, at Amazon Storefront*",AMAZON,PEPSI,Carbonated Soft Drinks,Beverages
+"Sign up for McAlister's Deli Rewards, tap for details",MCALISTERS DELI,MCALISTERS DELI,Carbonated Soft Drinks,Beverages
+"MTN DEW® Kickstart, 16-ounce 12 count, select varieties, at Amazon Storefront*",AMAZON,MOUNTAIN DEW,Carbonated Soft Drinks,Beverages
+"Stubborn Soda OR Bundaberg Ginger Beer, select varieties, at Amazon Storefront*",AMAZON,STUBBORN SODA,Carbonated Soft Drinks,Beverages
+"Starry™ Lemon Lime Soda multipacks, at Kroger",DILLONS GROCERY,STARRY,Carbonated Soft Drinks,Beverages
+"Starry™ Lemon Lime Soda, 7.5-ounce 10 pack, at Amazon Storefront*",AMAZON,STARRY,Carbonated Soft Drinks,Beverages
+"EVOLVE® Plant-Based Protein Shake, 4 count, select varieties, at Whole Foods",WHOLE FOODS MARKET,EVOLVE,Carbonated Soft Drinks,Beverages
+"Dr Pepper®, Regular OR Zero Sugar Strawberries and Cream 12 pack, at select retailers",UNITED SUPERMARKETS,DR PEPPER,Cooking & Baking,Pantry
+Spend $10 at Subway,SUBWAY,SUBWAY,Cooking & Baking,Pantry
+Spend $25 at Subway,SUBWAY,SUBWAY,Cooking & Baking,Pantry
+Spend $15 at Subway,SUBWAY,SUBWAY,Cooking & Baking,Pantry
+Spend $35 at Subway,SUBWAY,SUBWAY,Cooking & Baking,Pantry
+Spend $140 at Shaws,SHAWS,SHAWS,Cooking & Baking,Pantry
+Spend $185 at Shaws,SHAWS,SHAWS,Cooking & Baking,Pantry
+Shop 2 times at Shaw's,SHAWS,SHAWS,Cooking & Baking,Pantry
+Any Shaw's receipt,SHAWS,SHAWS,Cooking & Baking,Pantry
+Spend $300 at Shaws,SHAWS,SHAWS,Cooking & Baking,Pantry
+Order from Casey's app or Caseys.com,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Cooking & Baking,Pantry
+Spend $25 at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Cooking & Baking,Pantry
+Spend $5 in-store at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Cooking & Baking,Pantry
+Select beverages AND prepared food items at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Cooking & Baking,Pantry
+Visit OR order online from Casey's 7 times,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Cooking & Baking,Pantry
+Spend $5 on single-serve prepared food items at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Cooking & Baking,Pantry
+12 Pack OR 2 Liter AND Whole Pizza Pie at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Cooking & Baking,Pantry
+Whole Pizza at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Cooking & Baking,Pantry
+Wings OR Cheesy Breadsticks at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Cooking & Baking,Pantry
+Whole Pizza Pie at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Cooking & Baking,Pantry
+Frozen OR Fountain Drink at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Cooking & Baking,Pantry
+Spend $10 in-store at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Cooking & Baking,Pantry
+"Fresh bakery item, select varieties, at Casey's",CASEYS GENERAL STORE,CASEYS GENERAL STORE,Cooking & Baking,Pantry
+Whole pizza at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Cooking & Baking,Pantry
+12 Pack OR 2 Liter AND Whole Pizza at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Cooking & Baking,Pantry
+Frozen OR Fountain Drink at Casey's ,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Cooking & Baking,Pantry
+Visit OR order online from Casey's 3 times,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Cooking & Baking,Pantry
+Visit OR order online from Casey's 5 times,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Cooking & Baking,Pantry
+12 pack OR 2 liter AND Whole Pizza at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Cooking & Baking,Pantry
+Whole Pizza at Casey's ,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Cooking & Baking,Pantry
+"Fresh Bakery Products at Casey's, select varieties",CASEYS GENERAL STORE,CASEYS GENERAL STORE,Cooking & Baking,Pantry
+Spend $10 on Casey's branded packaged products,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Cooking & Baking,Pantry
+2 Pack OR 2 Liter AND Whole Pizza at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Cooking & Baking,Pantry
+Select Beverages AND Prepared Food Item at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Cooking & Baking,Pantry
+"Fresh Bakery items, select varieties, at Casey's",CASEYS GENERAL STORE,CASEYS GENERAL STORE,Cooking & Baking,Pantry
+Spend $5 on brisket mac & cheese sandwich OR other single-serve prepared food item,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Cooking & Baking,Pantry
+Sign up for The Club Card or The Club+ Card full-priced membership* (New Members Only),BJS WHOLESALE,BJS WHOLESALE,Cooking & Baking,Pantry
+Spend $155 at Pavilions,PAVILIONS,PAVILIONS,Cooking & Baking,Pantry
+Shop 2 times at Pavilions,PAVILIONS,PAVILIONS,Cooking & Baking,Pantry
+Spend $100 at Pavilions,PAVILIONS,PAVILIONS,Cooking & Baking,Pantry
+Any Pavilions receipt,PAVILIONS,PAVILIONS,Cooking & Baking,Pantry
+Spend $270 at Pavilions,PAVILIONS,PAVILIONS,Cooking & Baking,Pantry
+Spend $90 at Star Market,STAR MARKET,STAR MARKET,Cooking & Baking,Pantry
+Shop 2 times at Star Market,STAR MARKET,STAR MARKET,Cooking & Baking,Pantry
+Spend $120 at Star Market,STAR MARKET,STAR MARKET,Cooking & Baking,Pantry
+Spend $220 at Star Market,STAR MARKET,STAR MARKET,Cooking & Baking,Pantry
+Any Star Market receipt,STAR MARKET,STAR MARKET,Cooking & Baking,Pantry
+Blue Apron Meal Kits,BLUE APRON,BLUE APRON,Cooking & Baking,Pantry
+"Sign up for McAlister's Deli Rewards, tap for details",MCALISTERS DELI,MCALISTERS DELI,Cooking & Baking,Pantry
+"Kradle, select varieties, spend $20 at Walmart",WALMART,KRADLE,Cooking & Baking,Pantry
+"Kradle, select products, online at Chewy.com",CHEWY,KRADLE,Cooking & Baking,Pantry
+"Kradle, select varieties, online at Amazon",AMAZON,KRADLE,Cooking & Baking,Pantry
+"Kradle, select varieties, at Pet Supplies Plus",PET SUPPLIES PLUS,KRADLE,Cooking & Baking,Pantry
+Spend $10 at CVS,CVS,CVS,Cooking & Baking,Pantry
+Spend $30 at CVS,CVS,CVS,Cooking & Baking,Pantry
+Spend $15 at Burger King,BURGER KING,BURGER KING,Cooking & Baking,Pantry
+"Dixon® Safety Carpenter Pencil, 10 count, at Lowe’s®",LOWES HOME IMPROVEMENT,DIXON,Cooking & Baking,Pantry
+"Arnold, Brownberry, Oroweat® Small Slice bread, at Walmart",WALMART,ARNOLD BROWNBERRY OROWEAT,Bread,Pantry
+"Sara Lee® bread, select varieties, buy 2 at Walmart®",WALMART,SARA LEE,Bread,Pantry
+"Sara Lee® bread select varieties, buy 2",WALMART,SARA LEE,Bread,Pantry
+"Artesano® buns, buy 2 at Walmart®",WALMART,SARA LEE ARTESANO,Bread,Pantry
+"Sign up for McAlister's Deli Rewards, tap for details",MCALISTERS DELI,MCALISTERS DELI,Bread,Pantry
+"Arnold, Brownberry, Oroweat® Small Slice bread, at Walmart",WALMART,ARNOLD BROWNBERRY OROWEAT,Prepared Meals,Deli & Bakery
+"Bubbies Pickles, Sauerkraut, and Condiments at Whole Foods or Sprouts",SPROUTS FARMERS MARKET,BUBBIES,Prepared Meals,Deli & Bakery
+"Bubbies Pickles, Sauerkraut, OR Condiments at Whole Foods or Sprouts",SPROUTS FARMERS MARKET,BUBBIES,Prepared Meals,Deli & Bakery
+"Sign up for McAlister's Deli Rewards, tap for details",MCALISTERS DELI,MCALISTERS DELI,Prepared Meals,Deli & Bakery
+"Arnold, Brownberry, Oroweat® Small Slice bread, at Walmart",WALMART,ARNOLD BROWNBERRY OROWEAT,Bakery,Deli & Bakery
+"Sara Lee® bread, select varieties, buy 2 at Walmart®",WALMART,SARA LEE,Bakery,Deli & Bakery
+"Sara Lee® bread select varieties, buy 2",WALMART,SARA LEE,Bakery,Deli & Bakery
+Little Bites® Spend $10 at Walmart®,WALMART,ENTENMANNS,Bakery,Deli & Bakery
+"Artesano® buns, buy 2 at Walmart®",WALMART,SARA LEE ARTESANO,Bakery,Deli & Bakery
+"Sign up for McAlister's Deli Rewards, tap for details",MCALISTERS DELI,MCALISTERS DELI,Bakery,Deli & Bakery
+"Sign up for McAlister's Deli Rewards, tap for details",MCALISTERS DELI,MCALISTERS DELI,Chips,Snacks
+"Sara Lee® bread, select varieties, buy 2 at Walmart®",WALMART,SARA LEE,Cheese,Dairy
+"Sara Lee® bread select varieties, buy 2",WALMART,SARA LEE,Cheese,Dairy
+"Sign up for McAlister's Deli Rewards, tap for details",MCALISTERS DELI,MCALISTERS DELI,Cheese,Dairy
+"Welch's® Zero Sugar Fruity Bites, 6 pack+, online at Amazon",AMAZON,WELCHS FRUIT SNACKS,Fruit & Vegetable Snacks,Snacks
+"Welch's® Fruit Snacks, 250 count, online at Amazon",AMAZON,WELCHS FRUIT SNACKS,Fruit & Vegetable Snacks,Snacks
+"Welch's® Juicefuls® Juicy Fruit Snacks, 14 count, at Target",TARGET,WELCHS FRUIT SNACKS,Fruit & Vegetable Snacks,Snacks
+"Welch's® Fruit 'n Yogurt® Snacks, 18 count, at Walmart",WALMART,WELCHS FRUIT SNACKS,Fruit & Vegetable Snacks,Snacks
+"Sign up for McAlister's Deli Rewards, tap for details",MCALISTERS DELI,MCALISTERS DELI,Fruit & Vegetable Snacks,Snacks
+"Sign up for McAlister's Deli Rewards, tap for details",MCALISTERS DELI,MCALISTERS DELI,Dressings,Pantry
+"Gorton's, at select retailers",SHOP RITE,GORTONS,Frozen Meals,Frozen
+"Gorton's Air Fried Butterfly Shrimp, at Walmart",WALMART,GORTONS,Frozen Meals,Frozen
+"Gorton's, at select retailers",STOP & SHOP,GORTONS,Frozen Meals,Frozen
+Gorton's at select retailers,STOP & SHOP,GORTONS,Frozen Meals,Frozen
+Gorton's at select retailers,WALMART,GORTONS,Frozen Meals,Frozen
+"Reese's Chocolate Cones, 8 count at GIANT OR MARTIN’S",MARTINS FOODS,KLONDIKE,Frozen Meals,Frozen
+"Reese's Chocolate Cones, 8 count at GIANT OR MARTIN’S",GIANT FOOD,KLONDIKE,Frozen Meals,Frozen
+"Klondike Cones, spend $10 at Walmart ",WALMART,KLONDIKE,Frozen Meals,Frozen
+Klondike Cones at Walmart ,WALMART,KLONDIKE,Frozen Meals,Frozen
+Michael Angelo's® Sauce at Walmart,WALMART,MICHAEL ANGELO'S,Frozen Meals,Frozen
+"Sign up for McAlister's Deli Rewards, tap for details",MCALISTERS DELI,MCALISTERS DELI,Frozen Meals,Frozen
+Order from Casey's app or Caseys.com,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Frozen Pizza & Pizza Snacks,Frozen
+Spend $25 at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Frozen Pizza & Pizza Snacks,Frozen
+Spend $5 in-store at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Frozen Pizza & Pizza Snacks,Frozen
+Select beverages AND prepared food items at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Frozen Pizza & Pizza Snacks,Frozen
+Visit OR order online from Casey's 7 times,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Frozen Pizza & Pizza Snacks,Frozen
+Spend $5 on single-serve prepared food items at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Frozen Pizza & Pizza Snacks,Frozen
+12 Pack OR 2 Liter AND Whole Pizza Pie at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Frozen Pizza & Pizza Snacks,Frozen
+Whole Pizza at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Frozen Pizza & Pizza Snacks,Frozen
+Wings OR Cheesy Breadsticks at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Frozen Pizza & Pizza Snacks,Frozen
+Whole Pizza Pie at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Frozen Pizza & Pizza Snacks,Frozen
+Frozen OR Fountain Drink at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Frozen Pizza & Pizza Snacks,Frozen
+Spend $10 in-store at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Frozen Pizza & Pizza Snacks,Frozen
+"Fresh bakery item, select varieties, at Casey's",CASEYS GENERAL STORE,CASEYS GENERAL STORE,Frozen Pizza & Pizza Snacks,Frozen
+Whole pizza at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Frozen Pizza & Pizza Snacks,Frozen
+12 Pack OR 2 Liter AND Whole Pizza at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Frozen Pizza & Pizza Snacks,Frozen
+Frozen OR Fountain Drink at Casey's ,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Frozen Pizza & Pizza Snacks,Frozen
+Visit OR order online from Casey's 3 times,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Frozen Pizza & Pizza Snacks,Frozen
+Visit OR order online from Casey's 5 times,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Frozen Pizza & Pizza Snacks,Frozen
+12 pack OR 2 liter AND Whole Pizza at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Frozen Pizza & Pizza Snacks,Frozen
+Whole Pizza at Casey's ,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Frozen Pizza & Pizza Snacks,Frozen
+"Fresh Bakery Products at Casey's, select varieties",CASEYS GENERAL STORE,CASEYS GENERAL STORE,Frozen Pizza & Pizza Snacks,Frozen
+Spend $10 on Casey's branded packaged products,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Frozen Pizza & Pizza Snacks,Frozen
+2 Pack OR 2 Liter AND Whole Pizza at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Frozen Pizza & Pizza Snacks,Frozen
+Select Beverages AND Prepared Food Item at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Frozen Pizza & Pizza Snacks,Frozen
+"Fresh Bakery items, select varieties, at Casey's",CASEYS GENERAL STORE,CASEYS GENERAL STORE,Frozen Pizza & Pizza Snacks,Frozen
+Spend $5 on brisket mac & cheese sandwich OR other single-serve prepared food item,CASEYS GENERAL STORE,CASEYS GENERAL STORE,Frozen Pizza & Pizza Snacks,Frozen
+"Sara Lee® bread, select varieties, buy 2 at Walmart®",WALMART,SARA LEE,"Cereal, Granola, & Toaster Pastries",Pantry
+"Sara Lee® bread select varieties, buy 2",WALMART,SARA LEE,"Cereal, Granola, & Toaster Pastries",Pantry
+"Sign up for McAlister's Deli Rewards, tap for details",MCALISTERS DELI,MCALISTERS DELI,Soup & Broth,Pantry
+Egglife Egg White Wraps at Aldi,ALDI,EGGLIFE,Eggs,Dairy
+Any Albertsons receipt,ALBERTSONS,ALBERTSONS,Candy,Snacks
+Shop 2 times at Albertsons,ALBERTSONS,ALBERTSONS,Candy,Snacks
+Spend $65 at Albertsons,ALBERTSONS,ALBERTSONS,Candy,Snacks
+Spend $110 at Albertsons,ALBERTSONS,ALBERTSONS,Candy,Snacks
+Spend $220 at Albertsons,ALBERTSONS,ALBERTSONS,Candy,Snacks
+Shop 2 times at Safeway,SAFEWAY,SAFEWAY,Candy,Snacks
+Spend $210 at Safeway,SAFEWAY,SAFEWAY,Candy,Snacks
+Any Safeway receipt,SAFEWAY,SAFEWAY,Candy,Snacks
+Spend $115 at Safeway,SAFEWAY,SAFEWAY,Candy,Snacks
+Spend $90 at Safeway,SAFEWAY,SAFEWAY,Candy,Snacks
+"Sign up for McAlister's Deli Rewards, tap for details",MCALISTERS DELI,MCALISTERS DELI,Candy,Snacks
+Michael Angelo's® Sauce at Walmart,WALMART,MICHAEL ANGELO'S,Sauces & Marinades,Pantry
+"Sign up for McAlister's Deli Rewards, tap for details",MCALISTERS DELI,MCALISTERS DELI,Sauces & Marinades,Pantry
+"Bai® Antioxidant, 6 pack, buy 2 at Walmart",WALMART,BAI,Drink Mixes,Beverages
+"Bai® Antioxidant, 6 pack, at Walmart",WALMART,BAI,Drink Mixes,Beverages
+"Burt's Bees Sensitive Lotions and Creams, select varieties, at Walmart",WALMART,BURTS BEES,Hair Removal,Health & Wellness
+"Burt's Bee's® Facial Wipes, select varieties, 30 count at Walmart",WALMART,BURTS BEES,Hair Removal,Health & Wellness
+"Burt's Bees® products, select varieties, at Walmart",WALMART,BURTS BEES,Hair Removal,Health & Wellness
+"Burt's Bees® Sensitive Lotions and Creams, select varieties, at Walmart",WALMART,BURTS BEES,Hair Removal,Health & Wellness
+"L'Oréal Paris Hair color, select varieties, spend $19 at Target",TARGET,LOREAL PARIS HAIR COLOR,Hair Care,Health & Wellness
+"L'Oréal Paris Men Expert hair color, spend $19 at Walmart",WALMART,LOREAL PARIS HAIR COLOR,Hair Care,Health & Wellness
+"L’Oréal Paris Men Expert hair color, spend $9 at Walmart",WALMART,LOREAL PARIS HAIR COLOR,Hair Care,Health & Wellness
+L'Oréal Paris Excellence Hair Color at Target,TARGET,LOREAL PARIS HAIR COLOR,Hair Care,Health & Wellness
+"L'Oréal Paris Hair color, select varieties, spend $25 at Target",TARGET,LOREAL PARIS HAIR COLOR,Hair Care,Health & Wellness
+"L'Oréal Paris Hair color, select varieties, spend $9 at Target",TARGET,LOREAL PARIS HAIR COLOR,Hair Care,Health & Wellness
+"Dove Hand Wash, select varieties, buy 2 at Target",TARGET,DOVE,Hair Care,Health & Wellness
+"Dove Hand Wash, select varieties at Target",TARGET,DOVE,Hair Care,Health & Wellness
+Spend $60 at TGI Friday's,TGI FRIDAYS,TGI FRIDAYS,Malt Beverages,Alcohol
+Spend $35 at TGI Friday's,TGI FRIDAYS,TGI FRIDAYS,Malt Beverages,Alcohol
+Spend $45 at TGI Friday's,TGI FRIDAYS,TGI FRIDAYS,Malt Beverages,Alcohol
+Spend $25 at TGI Friday's,TGI FRIDAYS,TGI FRIDAYS,Malt Beverages,Alcohol
+"Gorton's, at select retailers",SHOP RITE,GORTONS,Frozen Seafood,Frozen Meat
+"Gorton's Air Fried Butterfly Shrimp, at Walmart",WALMART,GORTONS,Frozen Seafood,Frozen Meat
+"Gorton's, at select retailers",STOP & SHOP,GORTONS,Frozen Seafood,Frozen Meat
+Gorton's at select retailers,STOP & SHOP,GORTONS,Frozen Seafood,Frozen Meat
+Gorton's at select retailers,WALMART,GORTONS,Frozen Seafood,Frozen Meat
+"Gorton's, at select retailers",SHOP RITE,GORTONS,Jerky & Dried Meat,Snacks
+"Gorton's Air Fried Butterfly Shrimp, at Walmart",WALMART,GORTONS,Jerky & Dried Meat,Snacks
+"Gorton's, at select retailers",STOP & SHOP,GORTONS,Jerky & Dried Meat,Snacks
+Gorton's at select retailers,STOP & SHOP,GORTONS,Jerky & Dried Meat,Snacks
+Gorton's at select retailers,WALMART,GORTONS,Jerky & Dried Meat,Snacks
+"Kradle, select varieties, spend $20 at Walmart",WALMART,KRADLE,Dog Supplies,Animals & Pet Supplies
+"Kradle, select products, online at Chewy.com",CHEWY,KRADLE,Dog Supplies,Animals & Pet Supplies
+"Kradle, select varieties, online at Amazon",AMAZON,KRADLE,Dog Supplies,Animals & Pet Supplies
+"Kradle, select varieties, at Pet Supplies Plus",PET SUPPLIES PLUS,KRADLE,Dog Supplies,Animals & Pet Supplies
+"Cooked Perfect® Meatballs, at Walmart",WALMART,COOKED PERFECT,Frozen Chicken,Frozen Meat
+"Cooked Perfect® Meatballs, Homestyle OR Turkey, at Walmart",WALMART,COOKED PERFECT,Frozen Chicken,Frozen Meat
+"Sign up for McAlister's Deli Rewards, tap for details",MCALISTERS DELI,MCALISTERS DELI,Frozen Chicken,Frozen Meat
+"Perfect Keto Barista Blend Collagen & MCTs, online at Amazon",AMAZON,PERFECT KETO,Nuts & Seeds,Snacks
+"Perfect Keto Beauty + Sleep Collagen, online at Amazon",AMAZON,PERFECT KETO,Nuts & Seeds,Snacks
+"Perfect Keto Bars, online at Amazon",AMAZON,PERFECT KETO,Nuts & Seeds,Snacks
+"Perfect Keto Collagen Peptides, online at Amazon",AMAZON,PERFECT KETO,Nuts & Seeds,Snacks
+"Perfect Keto MCT Oil Powder, online at Amazon",AMAZON,PERFECT KETO,Nuts & Seeds,Snacks
+"Perfect Keto Super Reds, online at Amazon",AMAZON,PERFECT KETO,Nuts & Seeds,Snacks
+"Perfect Keto Exogenous Ketones Powder, online at Amazon",AMAZON,PERFECT KETO,Nuts & Seeds,Snacks
+"Tyson Products, select varieties, spend $20 at Sam's Club",SAMS CLUB,BALL PARK FRANK,Frozen Beef,Frozen Meat
+"L'Oréal Paris Makeup, spend $35 at Target",TARGET,LOREAL PARIS COSMETICS,Makeup,Beauty
+"L'Oréal Paris Makeup, spend $30 at Target",TARGET,LOREAL PARIS COSMETICS,Makeup,Beauty
+L'Oreal Paris True Match Foundation at Target,TARGET,LOREAL PARIS COSMETICS,Makeup,Beauty
+L'Oréal Paris True Match Foundation at Target,TARGET,LOREAL PARIS COSMETICS,Makeup,Beauty
+"Dove Hand Wash, select varieties, buy 2 at Target",TARGET,DOVE,Makeup,Beauty
+"Dove Hand Wash, select varieties at Target",TARGET,DOVE,Makeup,Beauty
+"Burt's Bees Sensitive Lotions and Creams, select varieties, at Walmart",WALMART,BURTS BEES,Makeup,Beauty
+"Burt's Bee's® Facial Wipes, select varieties, 30 count at Walmart",WALMART,BURTS BEES,Makeup,Beauty
+"Burt's Bees® products, select varieties, at Walmart",WALMART,BURTS BEES,Makeup,Beauty
+"Burt's Bees® Sensitive Lotions and Creams, select varieties, at Walmart",WALMART,BURTS BEES,Makeup,Beauty
+"Dixon® Safety Carpenter Pencil, 10 count, at Lowe’s®",LOWES HOME IMPROVEMENT,DIXON,Makeup,Beauty
+Any Vons receipt,VONS,VONS,Spirits,Alcohol
+Spend $150 at Vons,VONS,VONS,Spirits,Alcohol
+Spend $100 at Vons,VONS,VONS,Spirits,Alcohol
+Spend $275 at Vons,VONS,VONS,Spirits,Alcohol
+Shop 2 times at Vons,VONS,VONS,Spirits,Alcohol
+Spend $60 at TGI Friday's,TGI FRIDAYS,TGI FRIDAYS,Spirits,Alcohol
+Spend $35 at TGI Friday's,TGI FRIDAYS,TGI FRIDAYS,Spirits,Alcohol
+Spend $45 at TGI Friday's,TGI FRIDAYS,TGI FRIDAYS,Spirits,Alcohol
+Spend $25 at TGI Friday's,TGI FRIDAYS,TGI FRIDAYS,Spirits,Alcohol
+"Wine from TheBarrelRoom.com, spend $30",GALLO.COM,ALAMOS,Wine,Alcohol
+Little Bites® Spend $10 at Walmart®,WALMART,ENTENMANNS,Wine,Alcohol
+"Sign up for McAlister's Deli Rewards, tap for details",MCALISTERS DELI,MCALISTERS DELI,Wine,Alcohol
+"Bai® Antioxidant, 6 pack, buy 2 at Walmart",WALMART,BAI,Fruit Juices,Beverages
+"Bai® Antioxidant, 6 pack, at Walmart",WALMART,BAI,Fruit Juices,Beverages
+"Sign up for McAlister's Deli Rewards, tap for details",MCALISTERS DELI,MCALISTERS DELI,Fruit Juices,Beverages
+Spend $10 at CVS,CVS,CVS,Fruit Juices,Beverages
+Spend $30 at CVS,CVS,CVS,Fruit Juices,Beverages
+"Bai® Antioxidant, 6 pack, buy 2 at Walmart",WALMART,BAI,Water,Beverages
+"Bai® Antioxidant, 6 pack, at Walmart",WALMART,BAI,Water,Beverages
+"Sign up for McAlister's Deli Rewards, tap for details",MCALISTERS DELI,MCALISTERS DELI,Water,Beverages
+"CORE® Hydration, select varieties, at Walmart",WALMART,CORE HYDRATION,Water,Beverages
+"CORE® Hydration, select varieties, buy 2 at Walmart",WALMART,CORE HYDRATION,Water,Beverages
+"Bai® Antioxidant, 6 pack, buy 2 at Walmart",WALMART,BAI,Tea,Beverages
+"Bai® Antioxidant, 6 pack, at Walmart",WALMART,BAI,Tea,Beverages
+"Sign up for McAlister's Deli Rewards, tap for details",MCALISTERS DELI,MCALISTERS DELI,Tea,Beverages
+"Back to the Roots Grow Seed Starting Pots OR Germination Trays, at Walmart or Target",TARGET,BACK TO THE ROOTS,Packaged Meals & Sides,Pantry
+"Back to the Roots Soils, select varieties and sizes, at Walmart",WALMART,BACK TO THE ROOTS,Packaged Meals & Sides,Pantry
+"Back to the Roots Dry Plant Food, 5 pounds, at The Home Depot",THE HOME DEPOT,BACK TO THE ROOTS,Packaged Meals & Sides,Pantry
+"Back to the Roots Garden Soil, 1 cubic foot, at Lowe's Home Improvement",LOWES HOME IMPROVEMENT,BACK TO THE ROOTS,Packaged Meals & Sides,Pantry
+"Back to the Roots Raised Bed Gardening Kit with Soil, Seeds and Plant Food, at Target",TARGET,BACK TO THE ROOTS,Packaged Meals & Sides,Pantry
+Back to the Roots Microgreens Grow Kit OR Seed Refill at Walmart,WALMART,BACK TO THE ROOTS,Packaged Meals & Sides,Pantry
+"Back to the Roots Soils, select varieties and sizes, at Lowes",LOWES HOME IMPROVEMENT,BACK TO THE ROOTS,Packaged Meals & Sides,Pantry
+"Back to the Roots Soils, select varieties, at Walmart or Lowes",LOWES HOME IMPROVEMENT,BACK TO THE ROOTS,Packaged Meals & Sides,Pantry
+Back to the Roots Grow Kits at Walmart or The Home Depot,WALMART,BACK TO THE ROOTS,Packaged Meals & Sides,Pantry
+Back to the Roots Grow Hydroponic Grow Kit OR Refill Bundle at Walmart,WALMART,BACK TO THE ROOTS,Packaged Meals & Sides,Pantry
+"Back to the Roots Seeds, at Walmart",WALMART,BACK TO THE ROOTS,Packaged Meals & Sides,Pantry
+"Back to the Roots Organic Kits and Planters, at Target",TARGET,BACK TO THE ROOTS,Packaged Meals & Sides,Pantry
+"Back to the Roots Potting Mix, 1 cubic foot, at Lowe's Home Improvement",LOWES HOME IMPROVEMENT,BACK TO THE ROOTS,Packaged Meals & Sides,Pantry
+"Back to the Roots Organic 3-In-1 Seed Starting Mix 12 quart, at Walmart or Target",TARGET,BACK TO THE ROOTS,Packaged Meals & Sides,Pantry
+"Back to the Roots Soils, select varieties, at Walmart",WALMART,BACK TO THE ROOTS,Packaged Meals & Sides,Pantry
+"Sign up for McAlister's Deli Rewards, tap for details",MCALISTERS DELI,MCALISTERS DELI,Packaged Meals & Sides,Pantry
+"Dove Hand Wash, select varieties, buy 2 at Target",TARGET,DOVE,Bath & Body,Health & Wellness
+"Dove Hand Wash, select varieties at Target",TARGET,DOVE,Bath & Body,Health & Wellness
+"Dove Hand Wash, select varieties, buy 2 at Target",TARGET,DOVE,Deodorant & Antiperspirant,Health & Wellness
+"Dove Hand Wash, select varieties at Target",TARGET,DOVE,Deodorant & Antiperspirant,Health & Wellness
+"Burt's Bees Sensitive Lotions and Creams, select varieties, at Walmart",WALMART,BURTS BEES,Skin Care,Health & Wellness
+"Burt's Bee's® Facial Wipes, select varieties, 30 count at Walmart",WALMART,BURTS BEES,Skin Care,Health & Wellness
+"Burt's Bees® products, select varieties, at Walmart",WALMART,BURTS BEES,Skin Care,Health & Wellness
+"Burt's Bees® Sensitive Lotions and Creams, select varieties, at Walmart",WALMART,BURTS BEES,Skin Care,Health & Wellness
+Spend $10 at CVS,CVS,CVS,Skin Care,Health & Wellness
+Spend $30 at CVS,CVS,CVS,Skin Care,Health & Wellness
+Little Bites® Spend $10 at Walmart®,WALMART,ENTENMANNS,Snack Cakes,Snacks
+"Purex® laundry detergent, select varieties, at Walmart",WALMART,PUREX,Laundry Supplies,Household Supplies
+"Sign up for McAlister's Deli Rewards, tap for details",MCALISTERS DELI,MCALISTERS DELI,Pasta & Noodles,Pantry
+"RESPAWN® by 5® GUM, at Walmart",WALMART,5 GUM,Gum,Candy
+"Durex® Massage & Play 2 in 1 Pleasure Gel, select varieties, at Walmart or Target",TARGET,DUREX,Sexual Health,Health & Wellness
+"Snuggle® Liquid Fabric Softener, at Walmart",WALMART,SNUGGLE,Household Supplies,Household Supplies
+"Sign up for McAlister's Deli Rewards, tap for details",MCALISTERS DELI,MCALISTERS DELI,Coffee,Beverages
+"Sign up for McAlister's Deli Rewards, tap for details",MCALISTERS DELI,MCALISTERS DELI,Pickled Goods,Pantry
+"Sign up for McAlister's Deli Rewards, tap for details",MCALISTERS DELI,MCALISTERS DELI,Milk,Dairy
+"Sign up for McAlister's Deli Rewards, tap for details",MCALISTERS DELI,MCALISTERS DELI,Leafy Salads,Deli & Bakery
+"Sign up for McAlister's Deli Rewards, tap for details",MCALISTERS DELI,MCALISTERS DELI,Packaged Fruit & Applesauce,Pantry
+"Colgate® Toothpaste AND Colgate® Toothbrush, select varieties at Walmart or Target",TARGET,COLGATE TOOTHBRUSHES,Oral Care,Health & Wellness
+"Breyers Reese's Ice Cream, select varieties, at GIANT OR MARTIN’S",MARTINS FOODS,BREYERS,Frozen Breads & Doughs,Frozen
