@@ -19,7 +19,16 @@
       dataset based on the user's input.
    9. If relevant offers are found in the dataset, it calculates similarity scores between the user's input and the offers using the compute_similarity function. It then 
       adds these scores to the DataFrame, sorts the offers by similarity score in descending order, and converts the relevant offers and their similarity scores to JSON.
-   10. The application is run when the script is executed. 
+   10. The application is run when the script is executed.
+
+6. The main file which does the functionality of front end is found in the client/src directory .
+    1. Import various dependencies and assets, including React hooks (useState, useEffect), icons from react-icons, Axios for making HTTP requests, and a Vite logo image.
+    2. Do the state management.
+    3. The useEffect hook is triggered when the query state changes.If the query is not empty, it sends a POST request to the specified API endpoint with the search 
+       parameters and updates the results state with the response data.
+    4. UI rendering and CSS styling is done accordingly.
+    5. The server communication component communicates with a server located at http://127.0.0.1:5000. It sends a POST request to this server when the user performs a 
+       search.
 
 # Installation libraries
 python3, node , npm , flask , pip , tensorflow , pytorch , transformers , pandas , sklearn.metrics.pairwise .
