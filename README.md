@@ -21,7 +21,7 @@
       adds these scores to the DataFrame, sorts the offers by similarity score in descending order, and converts the relevant offers and their similarity scores to JSON.
    10. The application is run when the script is executed.
 
-6. The main file which does the functionality of front end is found in the client/src directory .
+6. The main file "app.jsx" which does the functionality of front end is found in the client/src directory .
     1. Import various dependencies and assets, including React hooks (useState, useEffect), icons from react-icons, Axios for making HTTP requests, and a Vite logo image.
     2. Do the state management.
     3. The useEffect hook is triggered when the query state changes.If the query is not empty, it sends a POST request to the specified API endpoint with the search 
