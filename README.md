@@ -31,6 +31,7 @@
        search.
 
 # Installation libraries
+There is requirements file in client which has all the libraries needed to run the code.
 python3, node , npm , flask , pip , tensorflow , pytorch , transformers , pandas , sklearn.metrics.pairwise .
 
 # Instructions on how to run the tool locally
