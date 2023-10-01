@@ -46,6 +46,10 @@ python3, node , npm , flask , pip , tensorflow , pytorch , transformers , pandas
 8. Select one of the options and type the keyword you want to search in the search bar and click enter.
 9. The output will be in a table format containing relevant offer and similarity score .
 
+#Output 
+1. ![image](https://github.com/surya-bit/nlp-app/assets/61753483/ca0f5a51-db49-418d-941d-c44d3ab4b603)
+2. ![image](https://github.com/surya-bit/nlp-app/assets/61753483/808e7b7a-ab83-4dcf-b5d1-06f1d8e02a0e)
+
 # Future Work :
 1. This model can be made more effective by using ElasticNet Search instead of string matching and comparing.
 2. THe interface could be made more interactive by including a drop down menu in the search tab.
