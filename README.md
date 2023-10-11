@@ -53,4 +53,4 @@ Few test cases :
 
 # Future Work :
 1. This model can be made more effective by using ElasticNet Search instead of string matching and comparing.
-2. THe interface could be made more interactive by including a drop down menu in the search tab.
+2. The interface could be made more interactive by including a drop down menu in the search tab.
