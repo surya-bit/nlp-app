@@ -1,8 +1,7 @@
-.App{
-  background-color: black;  
-  width: 100vw;
-  height: 100vh;
+:root{
+  background: black;
 
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
 }
 /*.black{
   background-color: black;
@@ -83,3 +82,30 @@ td{
   align-items: center;
   justify-content: center;
 }
+
+/* App.css */
+body {
+  transition: background 0.3s, color 0.3s;
+}
+
+.light {
+  background: #fff;
+  color: #000;
+}
+
+.dark {
+  background: #333;
+  color: #fff;
+}
+
+.toggle-theme-button {
+  margin-top: 10px;
+  padding: 5px;
+  background: #61dafb;
+  color: #fff;
+  cursor: pointer;
+  border: none;
+  border-radius: 4px;
+  outline: none;
+}
+

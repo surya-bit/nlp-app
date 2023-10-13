@@ -2,6 +2,9 @@ import { useState, useEffect } from 'react'
 import viteLogo from '/vite.svg'
 import {FaSearch} from "react-icons/fa";
 import axios from 'axios'
+import { BrowserRouter as Router, Route, Link } from 'react-router-dom';
+import { ThemeProvider } from './theme/ThemeContext';
+import ToggleThemeButton from './components/ToggleThemeButton';
 import './App.css'
 
 function App() {
@@ -33,15 +36,18 @@ const handleChange = (e) => {
     setQuery(e.target.value)
   }
   return (
+      <ThemeProvider>
+      <Router>
     <div className='App'>
     <div className='blank'></div>
       <div className='options'>
         <div className={options === 'Category' ? 'selected' : 'notSelected'} onClick={() => setOptions('Category')}>Category</div>
         <div className={options === 'Brand' ? 'selected' : 'notSelected'} onClick={() => setOptions('Brand')}>Brand</div>
         <div className={options === 'Retailer' ? 'selected' : 'notSelected'} onClick={() => setOptions('Retailer')}>Retailer</div>
+        <ToggleThemeButton/>
       </div>
       <div className='input-wrapper'>
-        <FaSearch className='FaSearch' size={20} color='#535353' />  
+        <FaSearch className='FaSearch' size={20} color='#535353' />
       <input placeholder='Type to search...'
       value={query}
       onChange={handleChange} />
@@ -81,6 +87,8 @@ results.map((result, index) => (
         </table>
        </div>
     </div>
+       </Router>
+    </ThemeProvider>
   )
 }
 
