@@ -1,4 +1,4 @@
-# nlp-app
+# Intelligent Offer Search tool using BERT and ElasticSearch
 
 # Code Explanation and assumptions :
 1. The file data-processing.ipynb contains the code which is used to preprocess and merge the three initial datasets ("Category","brand_category","offer retailer") to "final.csv" which will be used for further analysis .
